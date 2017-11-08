@@ -2,7 +2,7 @@
 
 Coded with Java.
 
-- Subject taken in first year second semester ofdegree.
+- Subject taken in first year second trimester of degree in Multimedia University Melaka Campus.
 - 3 Team members including me.
 
 
