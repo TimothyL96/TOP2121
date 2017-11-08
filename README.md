@@ -1,5 +1,13 @@
-# TOP2121 version 1
+# TOP2121 Assignment
 
-Latest:
+Coded with Java.
 
-It's Bug Free
+- Subject taken in first year second semester ofdegree.
+- 3 Team members including me.
+
+
+Changelog:
+
+- **Sep 12, 2016**
+
+  - It's Bug Free
